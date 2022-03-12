@@ -1,2 +1,2 @@
-# Pet-SImulator-X-Duoe
+# Pet-Simulator-X-Dupe
 Private Pet Simulator X Dupe
